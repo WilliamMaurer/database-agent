@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="database-agent-icbc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/database_agent_icbc_jar</output-path>
+    <root id="archive" name="database-agent-icbc.jar">
+      <element id="module-output" name="database-agent-icbc" />
+      <element id="extracted-dir" path="F:/工行实习/第一周/jboss-javassist-javassist-rel_3_27_0_ga-3-g5e3b6a8/jboss-javassist-javassist-5e3b6a8/javassist.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
